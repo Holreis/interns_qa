@@ -3,4 +3,3 @@
 line
 new branch line
 hi world
-new line
